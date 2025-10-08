@@ -53,3 +53,6 @@ The dataset can be downloaded through the Link: https://ai.stanford.edu/~amaas/d
 
 ### Publications Using the Dataset
 Andrew L. Maas, Raymond E. Daly, Peter T. Pham, Dan Huang, Andrew Y. Ng, and Christopher Potts. (2011). Learning Word Vectors for Sentiment Analysis. The 49th Annual Meeting of the Association for Computational Linguistics (ACL 2011).
+
+## 📊 Results
+All the results from my run including train, test, validation results are in Notebook file.
